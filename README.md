@@ -3,6 +3,8 @@
 Welcome to my page!
 I'm Riventh, DevSecOps Engineer from **Paris, France**.
 
+Find me on [Gitlab](https://gitlab.com/TheRandom)
+
 ## I use often :
 
 ### Programming Languages & Frameworks
